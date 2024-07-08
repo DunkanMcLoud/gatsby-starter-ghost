@@ -1,10 +1,10 @@
 {
-  "development": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
-  },
-  "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
-  }
+	"development": {
+		"apiUrl": "https://dunkan.dev",
+		"contentApiKey": "46276b1d2ab921bbcbcd361fd7"
+	},
+	"production": {
+		"apiUrl": "https://dunkan.dev",
+		"contentApiKey": "46276b1d2ab921bbcbcd361fd7"
+	}
 }
